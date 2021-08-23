@@ -6,10 +6,7 @@
 
 
 ## Description
-A program built to manage virtual particles which appear on the screen, gradually change color and also circle around each other in a pattern. A blurring effect has also been implemented for a more complex visual. The code uses the SLD free games/media programming framewor for C++, and involves some basic mathematics as well as games programming techniques. This project is in guidance with the "C++ Tutorial for Complete Beginners" free MOOC from UDEMY (link in the
-
-
- details section below).
+A program built to manage virtual particles which appear on the screen, gradually change color and also circle around each other in a pattern. A blurring effect has also been implemented for a more complex visual. The code uses the SLD free games/media programming framewor for C++, and involves some basic mathematics as well as games programming techniques. This project is in guidance with the "C++ Tutorial for Complete Beginners" free MOOC from UDEMY (link in the details section below).
 
 
 ## Program
