@@ -12,7 +12,7 @@ A program built to manage virtual particles which appear on the screen, graduall
 ## Program
 
 
-<img src="https://user-images.githubusercontent.com/72145252/130421476-9367ad70-8ca8-4945-a199-80fa8e0c2eab.png" width="250" height="150"> <img src="https://user-images.githubusercontent.com/72145252/130420454-f4a60796-7535-410d-8ee2-90245026fbdd.png" width="250" height="150"> <img src="https://user-images.githubusercontent.com/72145252/130422446-6c668836-110d-4094-af4c-216f17e04449.png" width="250" height="150">
+<img src="https://user-images.githubusercontent.com/72145252/130421476-9367ad70-8ca8-4945-a199-80fa8e0c2eab.png" width="33%" height="200"> <img src="https://user-images.githubusercontent.com/72145252/130420454-f4a60796-7535-410d-8ee2-90245026fbdd.png" width="33%" height="200"> <img src="https://user-images.githubusercontent.com/72145252/130422446-6c668836-110d-4094-af4c-216f17e04449.png" width="33%" height="200">
 
 
 
