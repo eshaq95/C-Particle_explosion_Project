@@ -52,9 +52,6 @@ This project was developed as part of the "C++ Tutorial for Complete Beginners" 
 
 Contributions to improve the simulation or add new features are welcome. Please feel free to fork the repository and submit pull requests.
 
-## License
-
-[Include license information here]
 
 ## Acknowledgements
 
